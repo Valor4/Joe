@@ -1,0 +1,19 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+div {
+    text-align: center;
+    background: rgb(19, 118, 116);
+    color: aliceblue;
+}
+
+p {
+    text-align: center;
+}
+
+.joe {
+    text-align: center;
+}

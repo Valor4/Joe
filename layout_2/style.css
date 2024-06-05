@@ -1,0 +1,25 @@
+.shoe {
+    background-image: url(/img/shoe.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+ul,li {
+    display: inline-block;
+    list-style-type: none
+}
+
+.h1 {
+    text-align: center;
+    color: rgb(93, 47, 24);
+    text-shadow: 2px 1px rgb(226, 147, 57);
+}
+
+.button {
+    text-align: center;
+    color: rgb(93, 47, 24);
+}
+
+button:hover {
+    background-color: bisque;
+}
